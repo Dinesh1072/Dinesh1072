@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinesh1072" alt="dinesh1072" /></a> </p>
 
-- 🌱 I’m currently learning **Cybersecurity**
+- 🌱 I’m currently learning **Data Analytics and AI**
 
 - 📫 How to reach me **dinesh10361@gmail.com**
 
